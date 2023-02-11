@@ -2,6 +2,6 @@ Dein 7. Mal in der Berghainschlange, diesmal klappts bestimmt. Weil dir beim War
 
 <img src="img/berghain.jpg">
 
-<a href="/">
+<a href="/behnam.github.io/">
 <button>Zurück zum Anfang</button>
 </a>

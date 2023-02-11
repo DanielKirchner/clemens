@@ -2,6 +2,6 @@ Die eine Konstante aller großer Städte der Welt: chinesische Touristen. Du tar
 
 <img src="img/chinesen.jpg">
 
-<a href="/">
+<a href="/behnam.github.io/">
 <button>Zurück zum Anfang</button>
 </a>

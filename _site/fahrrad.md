@@ -4,9 +4,9 @@ Doch wohin fährst du eigentlich? Du hast erstmal Lust in einem Park runterzukom
 
 <img src="img/fahrrad.jpeg">
 
-<a href="/görli">
+<a href="/behnam.github.io/görli">
 <button>Görli</button>
 </a>
-<a href="/mauerpark">
+<a href="/behnam.github.io/mauerpark">
 <button>Mauerpark</button>
 </a>

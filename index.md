@@ -1,11 +1,9 @@
-Du wachst absolout verkatert am Hauptbahnhof Berlin im Zug auf, kannst dich nur daran erinnern, ein bedeutender Politikmogul im Bamberger Raum zu sein und überlegst dir, wohin du als nächstes gehst.
+Du wachst absolout verkatert in deiner cozy Tokio Hotel Bettwäsche auf und kannst dich an gar nichts mehr erinnern. Mensch, wie der Kater schon wieder ballert. Du entscheidest dich, dass du den Tag mit etwas sinnvollem starten musst.
 
-Als erstes must du dich entscheiden, wie du hier weg kommst.
-
-<img src="img/bahnhof.jpeg">
-<a href="/behnam.github.io/fahrrad">
-<button>Fahrrad nehmen</button>
+<img src="img/tokiohotel.png">
+<a href="/clemens/verloren.html">
+<button>Gesunden Smoothie trinken</button>
 </a>
-<a href="/behnam.github.io/carsharing.html">
-<button>Carsharing nehmen</button>
+<a href="/clemens/staebchenkultur.html">
+<button>Elotrans nehmen & was zu Essen besorgen</button>
 </a>

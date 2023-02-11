@@ -2,9 +2,9 @@ Was für eine Frage, endlich mal wieder ein paar Fahrradfahrer beim Rechtsabbieg
 
 <img src="img/carsharing.jpeg">
 
-<a href="/regierungsviertel">
+<a href="/behnam.github.io/regierungsviertel">
 <button>Regierungsviertel</button>
 </a>
-<a href="/museum">
+<a href="/behnam.github.io/museum">
 <button>Zu einem Museum</button>
 </a>
